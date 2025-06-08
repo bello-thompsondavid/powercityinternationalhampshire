@@ -167,7 +167,7 @@
             display: flex;
             align-items: center;
             padding: 120px 0 80px;
-            background: linear-gradient(rgba(44, 90, 160, 0.459), rgba(44, 90, 160, 0.349)), url('images/BACKGROUND.jpg');
+            background: linear-gradient(rgba(44, 90, 160, 0.459), rgba(44, 90, 160, 0.349)), url('BACKGROUND.jpg');
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
