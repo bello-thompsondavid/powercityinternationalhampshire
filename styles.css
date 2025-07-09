@@ -110,7 +110,7 @@
   
   /* Hero Section */
   .hero {
-    height: 100vh;
+    height: 150vh;
     position: relative;
     display: flex;
     align-items: center;
@@ -183,7 +183,7 @@
     }
   }
   
-  .hero-content {
+  .hero-content{
     text-align: center;
     z-index: 2;
     max-width: 800px;
@@ -1987,6 +1987,11 @@
   
     .services-grid {
       grid-template-columns: 1fr;
+    }
+
+    .hero-content{
+        
+        margin-top: 100px;
     }
   }
   
